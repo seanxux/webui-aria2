@@ -9,7 +9,7 @@ angular
   port: 6800,
   encrypt: false,
   auth: {                          // either add the token field or the user and pass field, not both.
-  // token: '$YOUR_SECRET_TOKEN$'
+  token: 'xGreYA5FMUU5TsgCWgQlve7tdvxDZ8hz'
   /*-----------------------------*/
   // user: '*YOUR_USERNAME*',
   // pass: '*YOUR_SECRET_PASS*'
